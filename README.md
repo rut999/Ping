@@ -1,5 +1,12 @@
 # Cloudflare Application Hackathon: Systems
 
+## Usage  
+<host name/IP> <Number of ping to be sent>
+
+### example :: 
+sudo ./ping  
+-->google.com 10 
+
 ## My Output 
 ![System Architecture](https://github.com/rut999/Ping/blob/master/output_clf.jpeg)
 
