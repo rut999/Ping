@@ -3,9 +3,9 @@
 ## Usage  
 . Please run the application under root permission.
 
-. Input Paramater 1 :: <host name/IP> 
+. Input Paramater 1 :: host name/IP 
 
-. Input Parameter 2 :: <Number of ping to be sent>
+. Input Parameter 2 :: Number of ping to be sent
 
 #### example :: 
 sudo ./ping  
