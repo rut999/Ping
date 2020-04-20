@@ -1,5 +1,8 @@
 # Cloudflare Application Hackathon: Systems
 
+## My Output 
+![System Architecture](https://github.com/rut999/Ping/blob/master/output_clf.jpeg)
+
 ## What is it?
 
 Please write a small Ping CLI application for MacOS or Linux.
