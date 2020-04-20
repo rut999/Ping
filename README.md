@@ -1,8 +1,9 @@
 # Cloudflare Application Hackathon: Systems
 
 ## Usage  
+. Please run the application under root permission.
 
-  <host name/IP> <Number of ping to be sent>
+. <host name/IP> <Number of ping to be sent>
 
 #### example :: 
 sudo ./ping  
