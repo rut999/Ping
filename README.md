@@ -1,4 +1,4 @@
-# Cloudflare Internship Application: Systems
+# Cloudflare Application Hackathon: Systems
 
 ## What is it?
 
