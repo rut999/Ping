@@ -1,9 +1,10 @@
 # Cloudflare Application Hackathon: Systems
 
 ## Usage  
-<host name/IP> <Number of ping to be sent>
 
-### example :: 
+  <host name/IP> <Number of ping to be sent>
+
+#### example :: 
 sudo ./ping  
 -->google.com 10 
 
